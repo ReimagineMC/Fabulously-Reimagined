@@ -21,7 +21,7 @@ Fabulously Reimagined is a modpack created to improve the experience of playing 
 - [Enhanced Block Entities](https://modrinth.com/mod/ebe)
 - [Very Many Playes](https://modrinth.com/mod/vmp-fabric)
 - [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
-- [Distant Horizons](https://modrinth.com/mod/distant-horizons)
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 
 ## Credits
 [Credits](https://modrinth.com/)
