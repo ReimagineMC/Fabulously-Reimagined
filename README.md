@@ -1,4 +1,5 @@
 # Fabulously Reimagined
+## 
 ## Overview
 Fabulously Reimagined is a modpack created to improve the experience of playing Minecraft. Equipped with Sodium and other optimization mods, Fabulously Reimagined offers a new experience in playing Minecraft without making the game into a slideshow.
 ## Mods
@@ -22,6 +23,22 @@ Fabulously Reimagined is a modpack created to improve the experience of playing 
 - [Very Many Playes](https://modrinth.com/mod/vmp-fabric)
 - [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+- [Terralith](https://modrinth.com/mod/terralith)
+- [Towns and Towers](https://modrinth.com/mod/towns-and-towers)
+- [Tectonic](https://modrinth.com/datapack/tectonic)
+- [YUNG'S API](https://modrinth.com/mod/yungs-api)
+- [YUNG'S Better Mineshaft](https://modrinth.com/mod/yungs-better-mineshaft)
+- [YUNG'S Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
+- [YUNG'S Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)
+- [YUNG'S Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)
+- [YUNG'S Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
+- [YUNG'S Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
+- [YUNG'S Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
+- [YUNG'S Better End Island](https://modrinth.com/mod/yungs-better-end-island)
+- [YUNG'S Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples)
+- [YUNG'S Bridges](https://modrinth.com/mod/yungs-bridges)
+- [YUNG'S Extras](https://modrinth.com/mod/yungs-extras)
+- [Travelers Title](https://modrinth.com/mod/travelers-titles)
 
 ## Credits
 [Credits](https://modrinth.com/)
