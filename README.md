@@ -39,6 +39,11 @@ Fabulously Reimagined is a modpack created to improve the experience of playing 
 - [YUNG'S Bridges](https://modrinth.com/mod/yungs-bridges)
 - [YUNG'S Extras](https://modrinth.com/mod/yungs-extras)
 - [Travelers Title](https://modrinth.com/mod/travelers-titles)
+- [Geophilic](https://modrinth.com/datapack/geophilic)
+- [Universal Ores](https://modrinth.com/mod/universal-ores)
+- [Bedrock Waters](https://modrinth.com/mod/bedrockwaters)
+- [Continents](https://modrinth.com/mod/continents)
+- [Amplified Nether](https://modrinth.com/mod/amplified-nether)
 
 ## Credits
 [Credits](https://modrinth.com/)
