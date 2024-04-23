@@ -55,6 +55,8 @@ Fabulously Reimagined is a modpack created to improve the Minecraft playing expe
  - [Terralith](https://modrinth.com/mod/terralith)
  - [Terrestria](https://modrinth.com/mod/terrestria)
  - [Remove Terralith Intro Message](https://modrinth.com/datapack/remove-terralith-intro-message)
+ - [More Geodes](https://modrinth.com/mod/more-geodes)
+ - [Region Unexplored](https://modrinth.com/mod/regions-unexplored)
 
 ## Credits
 [Credits](https://modrinth.com/)
