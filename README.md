@@ -1,7 +1,7 @@
 # Fabulously Reimagined
 ## 
 ## Overview
-Fabulously Reimagined is a modpack created to improve the experience of playing Minecraft. Equipped with Sodium and other optimization mods, Fabulously Reimagined offers a new experience in playing Minecraft without making the game into a slideshow.
+Fabulously Reimagined is a modpack created to improve the Minecraft playing experience while maintaining Vanilla elements. Equipped with Sodium and other optimization mods, Fabulously Reimagined takes Minecraft to the next level.
 ## Mods
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Lithium](https://modrinth.com/mod/lithium)
