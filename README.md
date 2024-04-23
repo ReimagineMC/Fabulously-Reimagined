@@ -23,7 +23,11 @@ Fabulously Reimagined is a modpack created to improve the Minecraft playing expe
 - [Very Many Playes](https://modrinth.com/mod/vmp-fabric)
 - [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)
-- [Terralith](https://modrinth.com/mod/terralith)
+- [Fast Paintings](https://modrinth.com/mod/fast-paintings)
+- [Better Beds](https://modrinth.com/mod/better-beds)
+- [FPS Reducer](https://modrinth.com/mod/fps-reducer)
+- [Saturn](https://modrinth.com/mod/saturn)
+- [Debugify](https://modrinth.com/mod/debugify)
 - [Towns and Towers](https://modrinth.com/mod/towns-and-towers)
 - [Tectonic](https://modrinth.com/datapack/tectonic)
 - [YUNG'S API](https://modrinth.com/mod/yungs-api)
@@ -44,6 +48,13 @@ Fabulously Reimagined is a modpack created to improve the Minecraft playing expe
 - [Bedrock Waters](https://modrinth.com/mod/bedrockwaters)
 - [Continents](https://modrinth.com/mod/continents)
 - [Amplified Nether](https://modrinth.com/mod/amplified-nether)
+- [Advancement Plaque](https://modrinth.com/mod/advancement-plaque)
+
+## Addon
+### Adventure Addon
+ - [Terralith](https://modrinth.com/mod/terralith)
+ - [Terrestria](https://modrinth.com/mod/terrestria)
+ - [Remove Terralith Intro Message](https://modrinth.com/datapack/remove-terralith-intro-message)
 
 ## Credits
 [Credits](https://modrinth.com/)
