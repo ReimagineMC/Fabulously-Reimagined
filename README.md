@@ -44,19 +44,13 @@ Fabulously Reimagined is a modpack created to improve the Minecraft playing expe
 - [YUNG'S Extras](https://modrinth.com/mod/yungs-extras)
 - [Travelers Title](https://modrinth.com/mod/travelers-titles)
 - [Geophilic](https://modrinth.com/datapack/geophilic)
-- [Universal Ores](https://modrinth.com/mod/universal-ores)
+- [Universal Ores](https://modrinth.com/mod/universal_ores)
 - [Bedrock Waters](https://modrinth.com/mod/bedrockwaters)
 - [Continents](https://modrinth.com/mod/continents)
 - [Amplified Nether](https://modrinth.com/mod/amplified-nether)
-- [Advancement Plaque](https://modrinth.com/mod/advancement-plaque)
-
-## Addon
-### Adventure Addon
- - [Terralith](https://modrinth.com/mod/terralith)
- - [Terrestria](https://modrinth.com/mod/terrestria)
- - [Remove Terralith Intro Message](https://modrinth.com/datapack/remove-terralith-intro-message)
- - [More Geodes](https://modrinth.com/mod/more-geodes)
- - [Region Unexplored](https://modrinth.com/mod/regions-unexplored)
+- [Advancement Plaque](https://modrinth.com/mod/advancement-plaques)
+- [Not Just Biomes](https://modrinth.com/mod/not-just-biomes)
+- [Unnamed Desert](https://modrinth.com/mod/unnamed-desert)
 
 ## Credits
 [Credits](https://modrinth.com/)
