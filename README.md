@@ -27,6 +27,8 @@ Reimagine Vanilla Minecraft with biomes, structures, mobs and optimize Minecraft
 - [Continuity](https://modrinth.com/mod/continuity)
 - [Debugify](https://modrinth.com/mod/debugify)
 - [Indium](https://modrinth.com/mod/indium)
+- [Bad Optimizations](https://modrinth.com/mod/badoptimizations)
+- [Sleep Warp](https://modrinth.com/mod/sleep-warp)
 - [Towns and Towers](https://modrinth.com/mod/towns-and-towers)
 - [Tectonic](https://modrinth.com/datapack/tectonic)
 - [YUNG'S Better Mineshaft](https://modrinth.com/mod/yungs-better-mineshaft)
@@ -48,7 +50,3 @@ Reimagine Vanilla Minecraft with biomes, structures, mobs and optimize Minecraft
 - [Amplified Nether](https://modrinth.com/mod/amplified-nether)
 - [Advancement Plaque](https://modrinth.com/mod/advancement-plaques)
 - [Not Just Biomes](https://modrinth.com/mod/not-just-biomes)
-- [Unnamed Desert](https://modrinth.com/mod/unnamed-desert)
-
-## Credits
-[Credits](https://modrinth.com/)
