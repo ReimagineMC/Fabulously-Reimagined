@@ -28,5 +28,17 @@
 
 ## Experience
 | Mods | Author |
+|---|---|
 | [SleepWarp](https://modrinth.com/mod/sleep-warp) | [GiggityByte](https://modrinth.com/user/GiggityByte) |
+| [BedrockWaters](https://modrinth.com/mod/bedrockwaters) | [2Retr0](https://modrinth.com/user/2Retr0) |
+| [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) | [Grend](https://modrinth.com/user/Grend) |
+
+## World Generation
+| Mods | Author |
+|---|---|
 | [Towns and Towers](https://modrinth.com/mod/towns-and-towers) | [Biban_Auriu](https://modrinth.com/user/Biban_Auria) |
+| [Tectonic](https://modrinth.com/datapack/tectonic) and [Not Just Biomes](https://modrinth.com/mod/not-just-biomes)| [Apollo](https://modrinth.com/user/Apollo) |
+| [YUNG'S Better Mineshaft](https://modrinth.com/mod/yungs-better-mineshaft), [YUNG'S Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons), [YUNG'S Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses), [YUNG'S Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments), [YUNG'S Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds), [YUNG'S Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts), [YUNG'S Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples), [YUNG'S Better End Island](https://modrinth.com/mod/yungs-better-end-island), [YUNG'S Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples), [YUNG'S Bridges](https://modrinth.com/mod/yungs-bridges) and [YUNG'S Extras](https://modrinth.com/mod/yungs-extras) | [YUNGNICKYOUNG](https://modrinth.com/user/YUNGNICKYOUNG) |
+| [Geophilic](https://modrinth.com/datapck/geophilic) | [bebebea_loste](https://modrinth.com/user/bebebea_loste) |
+| [Universal Ores](https://modrinth.com/mod/universal_ores) | [Hugman](https://modrinth.com/user/Hugman) |
+| [Continents](https://modrinth.com/mod/continents) and [Amplified Nether](https://modrinth.com/mod/amplified-nether) | [Stardust Labs](https://modrinth.com/organization/stardust-labs) |
