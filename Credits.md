@@ -1,5 +1,6 @@
 # Credits
 
+## Performance
 | Mods | Author |
 |---|---|
 | [Sodium](https://modrinth.com/mod/sodium) and [Lithium](https://modrinth.com/mod/lithium) | [jellysquid3](https://modrinth.com/user/jellysquid3) |
@@ -20,6 +21,12 @@
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) and [Debugify](https://modrinth.com/mod/debugify) | [isxander](https://modrinth.com/user/isxander) |
 | [Distant Horizons](https://modrinth.com/mod/distanthorizons) | [jessibel](https://modrinth.com/user/jessibel) |
 | [Fast Paintings](https://modrinth.com/mod/fast-paintings) | [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar) |
-| [Better Beds](https://modrinth.com/mod/betterbeds) | [Motschen](https://modrinth.com/user/Motschen)
-| [FPS Reducer](https://modrinth.com/mod/fps-reducer) | [bre2el](https://modrinth.com/user/bre2el)
-| [Continuity](https://modrinth.com/mod/continuity) | [PepperCode1](https://modrinth.com/user/PepperCode1)
+| [Better Beds](https://modrinth.com/mod/betterbeds) | [Motschen](https://modrinth.com/user/Motschen) |
+| [FPS Reducer](https://modrinth.com/mod/fps-reducer) | [bre2el](https://modrinth.com/user/bre2el) |
+| [Continuity](https://modrinth.com/mod/continuity) | [PepperCode1](https://modrinth.com/user/PepperCode1) |
+| [BadOptimizations](https://modrinth.com/mod/badoptimizations) | [thosea](https://modrinth.com/user/thosea) |
+
+## Experience
+| Mods | Author |
+| [SleepWarp](https://modrinth.com/mod/sleep-warp) | [GiggityByte](https://modrinth.com/user/GiggityByte) |
+| [Towns and Towers](https://modrinth.com/mod/towns-and-towers) | [Biban_Auriu](https://modrinth.com/user/Biban_Auria) |
