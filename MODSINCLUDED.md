@@ -6,8 +6,6 @@
 | [Sodium](https://modrinth.com/mod/sodium) and [Lithium](https://modrinth.com/mod/lithium) | [jellysquid3](https://modrinth.com/user/jellysquid3) |
 | [Iris](https://modrinth.com/mod/iris) | [coderbot](https://modrinth.com/user/coderbot) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | [Prospector](https://modrinth.com/user/Prospector) |
-| [Fabric API](https://modrinth.com/mod/fabric-api) | [modmuss50](https://modrinth.com/user/modmuss50) |
-| [Cloth Config API](https://modrinth.com/mod/cloth-config) | [shedaniel](https://modrinth.com/user/shedaniel) |
 | [Ferrite Core](https://modrinth.com/mod/ferrite-core) | [malte0811](https://modrinth.com/user/malte0811) |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | [tr2zw](https://modrinth.com/user/tr7zw) |
 | [Indium](https://modrinth.com/mod/indium) | [comp500](https://modrinth.com/user/comp500) |
@@ -38,7 +36,15 @@
 |---|---|
 | [Towns and Towers](https://modrinth.com/mod/towns-and-towers) | [Biban_Auriu](https://modrinth.com/user/Biban_Auria) |
 | [Tectonic](https://modrinth.com/datapack/tectonic) and [Not Just Biomes](https://modrinth.com/mod/not-just-biomes)| [Apollo](https://modrinth.com/user/Apollo) |
-| [YUNG'S Better Mineshaft](https://modrinth.com/mod/yungs-better-mineshaft), [YUNG'S Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons), [YUNG'S Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses), [YUNG'S Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments), [YUNG'S Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds), [YUNG'S Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts), [YUNG'S Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples), [YUNG'S Better End Island](https://modrinth.com/mod/yungs-better-end-island), [YUNG'S Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples), [YUNG'S Bridges](https://modrinth.com/mod/yungs-bridges) and [YUNG'S Extras](https://modrinth.com/mod/yungs-extras) | [YUNGNICKYOUNG](https://modrinth.com/user/YUNGNICKYOUNG) |
+| [YUNG'S Better Mineshaft](https://modrinth.com/mod/yungs-better-mineshaft), [YUNG'S Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons), [YUNG'S Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses), [YUNG'S Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments), [YUNG'S Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds), [YUNG'S Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts), [YUNG'S Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples), [YUNG'S Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples), [YUNG'S Bridges](https://modrinth.com/mod/yungs-bridges) and [YUNG'S Extras](https://modrinth.com/mod/yungs-extras) | [YUNGNICKYOUNG](https://modrinth.com/user/YUNGNICKYOUNG) |
 | [Geophilic](https://modrinth.com/datapck/geophilic) | [bebebea_loste](https://modrinth.com/user/bebebea_loste) |
 | [Universal Ores](https://modrinth.com/mod/universal_ores) | [Hugman](https://modrinth.com/user/Hugman) |
 | [Continents](https://modrinth.com/mod/continents) and [Amplified Nether](https://modrinth.com/mod/amplified-nether) | [Stardust Labs](https://modrinth.com/organization/stardust-labs) |
+| [ChoiceTheorem's Overhaul Village](https://modrinth.com/mod/ct-overhaul-villge) | [ChoiceTheorem](https://modrinth.com/user/ChoiceTheorem) |
+
+## Library
+| Mods | Author |
+|---|---|
+| [Fabric API](https://modrinth.com/mod/fabric-api) | [modmuss50](https://modrinth.com/user/modmuss50) |
+| [Cloth Config API](https://modrinth.com/mod/cloth-config) | [shedaniel](https://modrinth.com/user/shedaniel) |
+| [Iceberg](https://modrinth.com/mod/iceberg) | [Grend](https://modrinth.com/user/Grend) |
